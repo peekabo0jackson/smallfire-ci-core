@@ -2,7 +2,6 @@ name: Enforced CI
 
 on:
   workflow_call:
-    secrets: inherit
 
 jobs:
   enforce:
